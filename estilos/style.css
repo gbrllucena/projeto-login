@@ -38,7 +38,8 @@ section {
 
 #img {
     display: block;
-    background: var(--cor2) url("../imagens/metal.jpg");
+    background-color: var(--cor2);
+    background-image: url("../imagens/metal.jpg");
     background-size: cover;
     background-position: left bottom;
     height: 200px;
